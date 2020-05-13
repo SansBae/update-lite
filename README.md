@@ -18,4 +18,4 @@ ul>
 </ul>
 <br />
 <br />
-<img src="https://github.com/SansBae/New-Elite-v1.3/blob/master/Screenshot_2020-04-30-08-16-33-32.png" />
+<img src="https://github.com/SansBae/dark-lite/blob/master/Screenshot_2020-05-13-08-22-31-63.png" />
