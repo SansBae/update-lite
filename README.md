@@ -15,7 +15,9 @@ ul>
 <ul>
 <li><code> Silahkan buka lewat gogle chrome! </code></li>
 </ul>
-<a href : https://duit.cc/Mh5nL /> LISENSINYA</a>
+LISENSI KLIK DIBAWAH INI : 
+https://duit.cc/Mh5nL
+
 <br />
 <br />
 <img src="https://github.com/SansBae/dark-lite/blob/master/Screenshot_2020-05-13-08-22-31-63.png" />
