@@ -14,8 +14,8 @@ ul>
 <li><code>$ python2 lite.py</code></li>
 <ul>
 <li><code> Silahkan buka lewat gogle chrome! </code></li>
-<li><code> Username & Password  :https://cyberinfo25.blogspot.com/2020/04/cara-hack-akun-facebook-dengan-kali.html  </code></li>
 </ul>
+<a href : https://duit.cc/Mh5nL /> LISENSINYA</a>
 <br />
 <br />
 <img src="https://github.com/SansBae/dark-lite/blob/master/Screenshot_2020-05-13-08-22-31-63.png" />
